@@ -21,8 +21,6 @@ Minha paixão pela programação impulsiona minha busca por conhecimento, enquan
 ![](https://github-readme-streak-stats.herokuapp.com/?user=handyman0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=handyman0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Commits por Linguagem:**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=handyman0&theme=dark&hide_border=false&layout=compact)
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
