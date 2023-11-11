@@ -17,10 +17,9 @@ Minha paixão pela programação impulsiona minha busca por conhecimento, enquan
 
 ## 📊 Estatísticas do GitHub:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=2d333b" alt="Estatísticas do GitHub" />
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=handyman0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=handyman0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
