@@ -1,6 +1,6 @@
 # 👋 Olá, sou Luiz!
 
-## Quem sou eu?
+## 🤔 Quem sou eu?
 Olá! Eu sou o Luiz, um entusiasta apaixonado pela defesa cibernética, atualmente estudando técnico em redes de computadores no Senac. Adoro explorar as complexidades da segurança, mergulhando em técnicas de engenharia reversa e vulnerabilidades de redes.
 
 ## 💫 Sobre Mim:
