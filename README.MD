@@ -16,6 +16,11 @@ Olá! Eu sou o Luiz, um entusiasta apaixonado pela defesa cibernética, atualmen
 ## 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=2d333b)<br/>
 
+## 📊 Estatísticas do GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=2d333b" alt="Estatísticas do GitHub" />
+</p>
+
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
 
