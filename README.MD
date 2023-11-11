@@ -14,9 +14,11 @@ Olá! Eu sou o Luiz, um entusiasta apaixonado pela defesa cibernética, atualmen
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 Estatísticas do GitHub:
-<p align="center">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=2d333b" alt="Estatísticas do GitHub" />
-</p>
+</div>
+
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
