@@ -19,4 +19,4 @@ Olá! Eu sou o Luiz, um entusiasta apaixonado pela defesa cibernética, atualmen
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
 
-Criando soluções com paixão pela programação! 🚀
+**Criando soluções com paixão pela programação! 🚀**
