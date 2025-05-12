@@ -8,35 +8,10 @@ Hello, sou Luiz 👾
 > *"Break it, learn it, fix it."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
-
----
+--
 
 ### 🛠️ **Skills**
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cpp&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-111111?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luiz3fernando/luiz3fernando/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<!-- 
-    ▄████▄   ▄▄▄       ██▀███   ██▓    ▓█████▄  ▓█████ 
-   ▒██▀ ▀█  ▒████▄    ▓██ ▒ ██▒▓██▒    ▒██▀ ██▌ ▓█   ▀ 
-   ▒▓█    ▄ ▒██  ▀█▄  ▓██ ░▄█ ▒▒██░    ░██   █▌ ▒███   
-   ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▀▀█▄  ▒██░    ░▓█▄   ▌ ▒▓█  ▄ 
-   ▒ ▓███▀ ░ ▓█   ▓██▒░██▓ ▒██▒░██████▒░▒████▓  ░▒████▒
-   ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░▓  ░ ▒▒▓  ▒  ░░ ▒░ ░
-     ░  ▒     ▒   ▒▒ ░  ░▒ ░ ▒░░ ░ ▒  ░ ░ ▒  ▒   ░ ░  ░
-   ░          ░   ▒     ░░   ░   ░ ░    ░ ░  ░     ░   
-   ░ ░            ░  ░   ░         ░  ░   ░        ░  ░
-   ░                                  ░               
-                                                    
-   📁 hint.txt
-   ─────────────────────────────────────
-   flag{nunca-confie-no-terminal-alheio}
-   ─────────────────────────────────────
--->
