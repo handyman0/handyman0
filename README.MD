@@ -1,5 +1,4 @@
 <p align="left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-<p align="left">Animação de linguagem inspirada no perfil de <a href="https://github.com/alansmathew">alansmathew</a>.</p>
 
 Hello, sou Luiz 👾
 
