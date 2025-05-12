@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=100%25&height=50&lines=Hello;E aí!;Bonjour;Salve;Olá;Salaam;Ciao;¡Qué fino!;Aloha;Merhaba" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=50&lines=Hello;E aí!;Bonjour;Salve;Olá;Salaam;Ciao;¡Qué fino!;Aloha;Merhaba" alt="Typing SVG" />
 </p>
 
 Hello, sou Luiz 👾
