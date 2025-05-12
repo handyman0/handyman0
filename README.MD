@@ -20,6 +20,6 @@
 ---
 
 ### 🌐 **Vamos conversar!**  
-[**LinkedIn**](https://www.linkedin.com/in/luiz3fernando) | **GitHub** | **Twitter**
+[**LinkedIn**](https://www.linkedin.com/in/luiz3fernando)
 
 **Explorando a programação com paixão!** ✨
