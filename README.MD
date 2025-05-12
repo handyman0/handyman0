@@ -1,3 +1,5 @@
+<p align="left"><img width=30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 Hello, sou Luiz 👾
 💻 Entusiasta de sistemas, redes e exploits — vivendo entre C, C++ e Shell.
 
