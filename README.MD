@@ -6,10 +6,9 @@ Hello, sou Luiz 👾
 
 
 > *"Break it, learn it, fix it."*
-
-
-
 --
+
+
 ### **Skills**
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cpp&logoColor=white)
