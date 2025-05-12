@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Hello+World!;Bonjour+le+monde!;Hallo+Welt!;Salve+Mundi!;Olá+Mundo!;こんにちは世界！;안녕하세요+세계!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Hello;Bonjour;Hallo;Salve;Olá;Salaam;Ciao;Zdravo;Hej;Szia;Tere;Aloha;Merhaba" alt="Typing SVG" />
 </p>
 
 ---
-<h1 align="left">Luiz 👾</h1>
 
+Hello there, sou Luiz 👾  
 💻 Entusiasta de sistemas, redes e exploits — vivendo entre C, C++ e Shell.
 
 > *"Break it, learn it, fix it."*
@@ -19,5 +19,5 @@
 
 ---
 
-### 🌐 Contato
+### 🌐 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
