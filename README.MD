@@ -1,28 +1,25 @@
-# 👋 Olá, sou Luiz!
+# Olá, sou o Luiz! 👋
 
-## 🤔 Quem sou eu?
-🚀 Oi, eu sou o Luiz, um entusiasta dedicado à programação e defesa cibernética. Atualmente, estou imerso no mundo das redes de computadores no Senac, aprofundando-me em técnicas de engenharia reversa e análise de vulnerabilidades. Encaro cada desafio como uma oportunidade de aprendizado, sempre buscando estar à frente nas últimas tendências da cibersegurança.
+🚀 **Entusiasta de programação & cibersegurança**  
+🎓 **Formado em Redes de Computadores** pelo Senac  
+💻 Focado em **C**, **C++** e **Shell Script** 
+🔒 Apaixonado por **criação de soluções de segurança** e **desafios técnicos**
 
-Minha paixão pela programação impulsiona minha busca por conhecimento, enquanto minha dedicação à defesa cibernética reflete-se em um comprometimento constante com a segurança digital. Estou entusiasmado com as possibilidades que o futuro reserva nesta área em constante evolução e comprometido em contribuir para um ambiente online mais protegido e resiliente. 🌐✨
+---
 
-## 💫 Sobre Mim:
-🔭 Atualmente estudando Redes de Computadores no Senac<br>
-👯 Busco colaboração na criação de software de segurança<br>
-🤝 Preciso de ajuda com técnicas de defesa e ataque cibernético<br>
-🌱 Aprendendo engenharia reversa, vulnerabilidades de redes e criando soluções com programação<br>
-💬 Pergunte-me sobre qualquer coisa<br>
+### 🚀 **Tecnologias que amo:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 💻 Tecnologias:
-![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-## 📊 Estatísticas do GitHub:
+### 📊 **Minhas Estatísticas:**
+![Stats](https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&show_icons=true&count_private=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=handyman0&theme=dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handyman0&theme=dark&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=handyman0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=handyman0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=handyman0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+### 🌐 **Vamos conversar!**  
+[**LinkedIn**](https://www.linkedin.com/in/luiz3fernando) | **GitHub** | **Twitter**
 
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz3fernando)
-
-**Criando soluções com paixão pela programação! 🚀**
+**Explorando a programação com paixão!** ✨
